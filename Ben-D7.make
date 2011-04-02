@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-03-27
+; $Id$ created 2011-03-27 update 2011-04-02
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
 ;
@@ -7,6 +7,7 @@
 ; Chaos tools = ctools
 ; Views = views
 ; Omega Tools = omega_tools
+; Module Filter = module_filter
 ;
 ; Themes:
 ; Omega = Omega Theme
@@ -30,5 +31,6 @@ projects[] = views
 projects[] = omega
 projects[] = omega_tools
 projects[] = sky
+projects[] = module_filter
 
 
