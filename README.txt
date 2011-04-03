@@ -8,3 +8,6 @@ using drush, and  the Sky theme.
 
 The commerce branch inlcudes the standard Drupal 7 core installation, 
 along with the Drupal Commerce contributed module and the various dependencies needed for it.
+
+The Uberdrupal branch adds a Drupal 6 compatible installation of the
+UberDrupal profile along with some contributed Ubercart Modules.
