@@ -5,7 +5,10 @@ api = 2
 projects[drupal][version] = "6.20"
 
 ; Profiles
-projects[uberdrupal][type] = "profile"
+projects[uberdrupal-6-20][type] = "profile"
+;projects[uberdrupal-6-20][subdir] = "profiles/uberdrupal"
+projects[uberdrupal-6-20][download][type] = "git"
+projects[uberdrupal-6-20][download][url] = "git://github.com/benhosmer/Ubderdrupal-6.20.git"
 
 ; Modules
 projects[acl][version] = "1.3"
