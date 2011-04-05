@@ -12,7 +12,7 @@
 ; Themes:
 ; Omega = Omega Theme
 ; Sky = Sky Theme
-
+; Environment Indicator = enviviornment_indicator
 
 ; Core Drupal
 
@@ -32,5 +32,5 @@ projects[] = omega
 projects[] = omega_tools
 projects[] = sky
 projects[] = module_filter
-
+projects[] = environment_indicator
 
