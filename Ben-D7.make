@@ -8,11 +8,13 @@
 ; Views = views
 ; Omega Tools = omega_tools
 ; Module Filter = module_filter
+; Environment Indicator = enviviornment_indicator
+
 ;
 ; Themes:
 ; Omega = Omega Theme
 ; Sky = Sky Theme
-; Environment Indicator = enviviornment_indicator
+
 
 ; Core Drupal
 
@@ -23,7 +25,7 @@ core = 7.x
 
 api = 2
 
-; Core Projects
+; Contributed Modules & Themes
 
 projects[] = drupal
 projects[] = ctools

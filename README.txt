@@ -3,6 +3,9 @@ and drush make.
 
 The Master Branch contains a quick and easy Drupal 7 makefile that downloads drupal 7 core, along
 with views, and the views dependency, chaos tools, and the ever-so-handy module filter module. 
+
+It includes the environment indicator module to identify different developement environments.
+
 It also adds the Omega theme, the Omega Tools module to quickly make an Omega Base Theme 
 using drush, and  the Sky theme.
 
