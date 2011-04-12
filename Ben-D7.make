@@ -9,8 +9,11 @@
 ; Omega Tools = omega_tools
 ; Module Filter = module_filter
 ; Environment Indicator = enviviornment_indicator
+; XML Site Map = xmlsitemap
+; Mollom = mollom
+; Fast Permissions Administration = fpa
 
-;
+
 ; Themes:
 ; Omega = Omega Theme
 ; Sky = Sky Theme
@@ -35,4 +38,6 @@ projects[] = omega_tools
 projects[] = sky
 projects[] = module_filter
 projects[] = environment_indicator
-
+projects[] = xmlsitemap
+projects[] = mollom
+projects[] = fpa
