@@ -12,6 +12,7 @@
 ; XML Site Map = xmlsitemap
 ; Mollom = mollom
 ; Fast Permissions Administration = fpa
+; Add to Any = addtoany
 
 
 ; Themes:
@@ -41,3 +42,4 @@ projects[] = environment_indicator
 projects[] = xmlsitemap
 projects[] = mollom
 projects[] = fpa
+projects[] = addtoany
