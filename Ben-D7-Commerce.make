@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-04-02
+; $Id$ created 2011-03-27 update 2011-04-12
 ;
 ; Ben's Drush Makefile for a Drupal 7 Commerce Site to download the following modules and themes:
 
@@ -12,6 +12,9 @@
 ; Rules = rules
 ; Omega Tools = omega_tools
 ; Module Filter = module_filter
+; Mollom = mollom
+; Fast Permissions Administration = fpa
+; Add to Any = addtoany
 
 ; Themes:
 ;
@@ -41,6 +44,11 @@ projects[] = entity
 projects[] = addressfield
 projects[] = rules
 projects[] = module_filter
+projects[] = environment_indicator
+projects[] = xmlsitemap
+projects[] = mollom
+projects[] = fpa
+projects[] = addtoany
 
 
 
