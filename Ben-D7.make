@@ -14,6 +14,7 @@
 ; Fast Permissions Administration = fpa
 ; Add to Any = addtoany
 ; Path Auto = pathauto
+;Token = token
 
 
 ; Themes:
@@ -45,4 +46,4 @@ projects[] = mollom
 projects[] = fpa
 projects[] = addtoany
 projects[] = pathauto
-
+projects[] = token
