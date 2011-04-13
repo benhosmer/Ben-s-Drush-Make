@@ -13,6 +13,7 @@
 ; Mollom = mollom
 ; Fast Permissions Administration = fpa
 ; Add to Any = addtoany
+; Path Auto = pathauto
 
 
 ; Themes:
@@ -43,3 +44,5 @@ projects[] = xmlsitemap
 projects[] = mollom
 projects[] = fpa
 projects[] = addtoany
+projects[] = pathauto
+
