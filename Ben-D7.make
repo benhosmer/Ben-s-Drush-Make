@@ -52,6 +52,6 @@ projects[] = pathauto
 projects[] = token
 projects[] = navigation404
 projects[] = comment_notify
-projects[] = media
+projects[media][version] = 7.x-1.x-dev
 projects[] = styles
 projects[] = insert
