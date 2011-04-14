@@ -17,7 +17,8 @@
 ; Token = token
 ; Navigation 404 = navigation404
 ; Comment Notify = comment_notify
-; Media = Media
+; Media = media
+; Insert = insert
 
 
 ; Themes:
