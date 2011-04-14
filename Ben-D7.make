@@ -56,4 +56,4 @@ projects[media][download][type] = "get"
 projects[media][download][url] = "http://ftp.drupal.org/files/projects/media-7.x-1.x-dev.tar.gz"
 projects[] = styles
 projects[insert][download][type] = get
-projects[media][download][url] = http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz
+projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
