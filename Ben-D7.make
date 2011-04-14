@@ -14,7 +14,10 @@
 ; Fast Permissions Administration = fpa
 ; Add to Any = addtoany
 ; Path Auto = pathauto
-;Token = token
+; Token = token
+; Navigation 404 = navigation404
+; Comment Notify = comment_notify
+; Media = Media
 
 
 ; Themes:
@@ -47,3 +50,8 @@ projects[] = fpa
 projects[] = addtoany
 projects[] = pathauto
 projects[] = token
+projects[] = navigation404
+projects[] = comment_notify
+projects[] = media
+projects[] = styles
+projects[] = insert
