@@ -19,6 +19,7 @@
 ; Comment Notify = comment_notify
 ; Media = media
 ; Insert = insert
+; Fast Permissions Access = fpa
 
 
 ; Themes:
@@ -58,3 +59,4 @@ projects[media][download][url] = "http://ftp.drupal.org/files/projects/media-7.x
 projects[] = styles
 projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
+
