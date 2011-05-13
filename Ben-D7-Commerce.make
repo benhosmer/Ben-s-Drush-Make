@@ -15,11 +15,16 @@
 ; Mollom = mollom
 ; Fast Permissions Administration = fpa
 ; Add to Any = addtoany
+; Comment Notify = comment_notify
+; Media = media
+; Styles = styles
+; Insert = insert
 
 ; Themes:
 ;
 ; Sky = Sky Theme
 ; Omega = Omega Theme
+; Zen = zen
 
 
 ; Core Drupal
@@ -39,6 +44,7 @@ projects[] = views
 projects[] = omega
 projects[] = omega_tools
 projects[] = sky
+projects[] = zen
 projects[] = commerce
 projects[] = entity
 projects[] = addressfield
@@ -49,6 +55,13 @@ projects[] = xmlsitemap
 projects[] = mollom
 projects[] = fpa
 projects[] = addtoany
+projects[] = comment_notify
+projects[media][download][type] = "get"
+projects[media][download][url] = "http://ftp.drupal.org/files/projects/media-7.x-1.x-dev.tar.gz"
+projects[] = styles
+projects[insert][download][type] = get
+projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
+
 
 
 
