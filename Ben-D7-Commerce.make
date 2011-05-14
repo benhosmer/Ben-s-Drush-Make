@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-04-12
+; $Id$ created 2011-03-27 updated 2011-05-12
 ;
 ; Ben's Drush Makefile for a Drupal 7 Commerce Site to download the following modules and themes:
 
@@ -19,6 +19,7 @@
 ; Media = media
 ; Styles = styles
 ; Insert = insert
+; Colorbox = colorbox
 
 ; Themes:
 ;
@@ -61,7 +62,7 @@ projects[media][download][url] = "http://ftp.drupal.org/files/projects/media-7.x
 projects[] = styles
 projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
-
+projects[] = colorbox
 
 
 
