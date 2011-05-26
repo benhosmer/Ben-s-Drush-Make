@@ -15,6 +15,8 @@
 ; Mollom = mollom
 ; Fast Permissions Administration = fpa
 ; Add to Any = addtoany
+; PathAuto = pathauto
+; Token = token
 ; Comment Notify = comment_notify
 ; Media = media
 ; Styles = styles
@@ -63,6 +65,8 @@ projects[] = styles
 projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
 projects[] = colorbox
+projects[] = token
+projects[] = pathauto
 
 
 
