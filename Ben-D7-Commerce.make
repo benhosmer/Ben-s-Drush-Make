@@ -1,6 +1,8 @@
-; $Id$ created 2011-03-27 updated 2011-05-12
+; $Id$ created 2011-03-27 updated 2011-05-31
 ;
 ; Ben's Drush Makefile for a Drupal 7 Commerce Site to download the following modules and themes:
+; ***Note: Downloading Commerce using drush still causes errors. Manually download and install it
+; for now ****
 
 ; Modules:
 ;
@@ -49,7 +51,7 @@ projects[] = omega
 projects[] = omega_tools
 projects[] = sky
 projects[] = zen
-projects[] = commerce
+;projects[] = commerce
 projects[] = entity
 projects[] = addressfield
 projects[] = rules
