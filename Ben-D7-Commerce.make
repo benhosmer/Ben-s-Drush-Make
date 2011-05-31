@@ -22,6 +22,7 @@
 ; Styles = styles
 ; Insert = insert
 ; Colorbox = colorbox
+; Navigation404 = navigation404
 
 ; Themes:
 ;
@@ -67,6 +68,7 @@ projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7
 projects[] = colorbox
 projects[] = token
 projects[] = pathauto
+projects[] = navigation404
 
 
 
