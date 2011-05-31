@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-54-12
+; $Id$ created 2011-03-27 update 2011-05-31
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
 ;
@@ -21,6 +21,7 @@
 ; Insert = insert
 ; Fast Permissions Access = fpa
 ; Colorbox = colorbox
+; Navigation404 = navigation404
 
 
 ; Themes:
@@ -61,3 +62,4 @@ projects[] = styles
 projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
 projects[] = colorbox
+projects[] = navigation404
