@@ -25,6 +25,7 @@
 ; Insert = insert
 ; Colorbox = colorbox
 ; Navigation404 = navigation404
+; Google Analytics = google_analytics
 
 ; Themes:
 ;
@@ -71,6 +72,7 @@ projects[] = colorbox
 projects[] = token
 projects[] = pathauto
 projects[] = navigation404
+projects[] = google_analytics
 
 
 
