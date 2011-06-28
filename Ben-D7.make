@@ -22,6 +22,7 @@
 ; Fast Permissions Access = fpa
 ; Colorbox = colorbox
 ; Navigation404 = navigation404
+; Google Analytics = google_analytics
 
 
 ; Themes:
@@ -63,3 +64,4 @@ projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
 projects[] = colorbox
 projects[] = navigation404
+projects[] = google_analytics
