@@ -63,7 +63,6 @@ projects[] = styles
 projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
 projects[] = colorbox
-projects[] = navigation404
 projects[] = google_analytic
 projects[] = google_plusone
 projects[] = corporateclean
