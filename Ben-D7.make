@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-05-31
+; $Id$ created 2011-03-27 update 2011-08-07
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
 ;
@@ -23,12 +23,12 @@
 ; Colorbox = colorbox
 ; Navigation404 = navigation404
 ; Google Analytics = google_analytics
-
+; Google +1 = google_plusone
 
 ; Themes:
 ; Omega = Omega Theme
 ; Sky = Sky Theme
-
+; CorporateClean = Corporate Clean Theme
 
 ; Core Drupal
 
@@ -64,4 +64,6 @@ projects[insert][download][type] = get
 projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7.x-1.0.tar.gz"
 projects[] = colorbox
 projects[] = navigation404
-projects[] = google_analytics
+projects[] = google_analytic
+projects[] = google_plusone
+projects[] = corporateclean
