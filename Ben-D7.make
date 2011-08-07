@@ -65,4 +65,5 @@ projects[insert][download][url] = "http://ftp.drupal.org/files/projects/insert-7
 projects[] = colorbox
 projects[] = google_analytics
 projects[] = google_plusone
-; projects[] = corporateclean
+projects[corporateclean][download][type] = "get"
+projects[corporateclean][download][url]  = "http://ftp.drupal.org/files/projects/corporateclean-7.x-1.1.tar.gz"
