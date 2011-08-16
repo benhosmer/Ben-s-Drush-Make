@@ -26,6 +26,7 @@
 ; Colorbox = colorbox
 ; Navigation404 = navigation404
 ; Google Analytics = google_analytics
+; Backup and Migrate = backup_migrate
 
 ; Themes:
 ;
@@ -73,6 +74,7 @@ projects[] = token
 projects[] = pathauto
 projects[] = navigation404
 projects[] = google_analytics
+projects[] = backup_migrate
 
 
 
