@@ -24,6 +24,7 @@
 ; Navigation404 = navigation404
 ; Google Analytics = google_analytics
 ; Google +1 = google_plusone
+; Backup and Migrate = backup_migrate
 
 ; Themes:
 ; Omega = Omega Theme
@@ -67,3 +68,4 @@ projects[] = google_analytics
 projects[] = google_plusone
 projects[corporateclean][download][type] = "get"
 projects[corporateclean][download][url]  = "http://ftp.drupal.org/files/projects/corporateclean-7.x-1.1.tar.gz"
+projects[] = backup_migrate
