@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 updated 2011-05-31
+; $Id$ created 2011-03-27 updated 2011-08-17
 ;
 ; Ben's Drush Makefile for a Drupal 7 Commerce Site to download the following modules and themes:
 ; ***Note: Downloading Commerce using drush still causes errors. Manually download and install it
@@ -75,6 +75,9 @@ projects[] = pathauto
 projects[] = navigation404
 projects[] = google_analytics
 projects[] = backup_migrate
+projects[cacheflusher][download][type] = "git"
+projects[cacheflusher][download][url] = "http://git.drupal.org/sandbox/bhosmer/1170266.git cacheflusher"
+projects[cacheflusher][download][branch] = "master"
 
 
 
