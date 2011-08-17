@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-08-07
+; $Id$ created 2011-03-27 update 2011-08-17
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
 ;
@@ -25,6 +25,7 @@
 ; Google Analytics = google_analytics
 ; Google +1 = google_plusone
 ; Backup and Migrate = backup_migrate
+; Cache Flusher = cacheflusher
 
 ; Themes:
 ; Omega = Omega Theme
@@ -69,3 +70,6 @@ projects[] = google_plusone
 projects[corporateclean][download][type] = "get"
 projects[corporateclean][download][url]  = "http://ftp.drupal.org/files/projects/corporateclean-7.x-1.1.tar.gz"
 projects[] = backup_migrate
+projects[cacheflusher][download][type] = "git"
+projects[cacheflusher][download][url] = "http://git.drupal.org/sandbox/bhosmer/1170266.git cacheflusher"
+projects[cacheflusher][download][branch] = "master"
