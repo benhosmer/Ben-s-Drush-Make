@@ -75,9 +75,9 @@ projects[] = pathauto
 projects[] = navigation404
 projects[] = google_analytics
 projects[] = backup_migrate
-projects[cacheflusher][download][type] = "git"
-projects[cacheflusher][download][url] = "http://git.drupal.org/sandbox/bhosmer/1170266.git cacheflusher"
-projects[cacheflusher][download][branch] = "master"
+;projects[cacheflusher][download][type] = "git"
+;projects[cacheflusher][download][url] = "http://git.drupal.org/sandbox/bhosmer/1170266.git cacheflusher"
+;projects[cacheflusher][download][branch] = "master"
 
 
 
