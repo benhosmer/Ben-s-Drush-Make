@@ -73,3 +73,4 @@ projects[] = backup_migrate
 projects[cacheflusher][download][type] = "git"
 projects[cacheflusher][download][url] = "git://git.drupal.org/sandbox/bhosmer/1170266.git"
 projects[cacheflusher][type] = "module"
+projects[] = views_bulk_operations
