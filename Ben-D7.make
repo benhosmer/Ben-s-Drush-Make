@@ -1,4 +1,4 @@
-; $Id$ created 2011-03-27 update 2011-08-17
+; $Id$ created 2011-03-27 update 2011-11-10
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
 ;
@@ -26,6 +26,9 @@
 ; Google +1 = google_plusone
 ; Backup and Migrate = backup_migrate
 ; Cache Flusher = cacheflusher
+; Devel = devel
+; Coder = coder
+; Masquerade = masquerade
 
 ; Themes:
 ; Omega = Omega Theme
