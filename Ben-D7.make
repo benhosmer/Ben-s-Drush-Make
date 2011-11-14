@@ -29,6 +29,7 @@
 ; Devel = devel
 ; Coder = coder
 ; Masquerade = masquerade
+; Style Guide = styleguide
 
 ; Themes:
 ; Omega = Omega Theme
@@ -80,3 +81,4 @@ projects[] = views_bulk_operations
 projects[] = devel
 projects[] = coder
 projects[] = masquerade
+projects[] = styleguide
