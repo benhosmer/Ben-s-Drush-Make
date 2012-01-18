@@ -30,6 +30,7 @@
 ; Coder = coder
 ; Masquerade = masquerade
 ; Style Guide = styleguide
+; Link = link
 
 ; Themes:
 ; Omega = Omega Theme
@@ -82,3 +83,4 @@ projects[] = devel
 projects[] = coder
 projects[] = masquerade
 projects[] = styleguide
+projects[] = link
