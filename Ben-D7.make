@@ -1,3 +1,4 @@
+
 ; $Id$ created 2011-03-27 update 2011-11-10
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
@@ -31,6 +32,8 @@
 ; Masquerade = masquerade
 ; Style Guide = styleguide
 ; Link = link
+; Coffee (admin like alfred using alt+d) = coffee
+
 
 ; Themes:
 ; Omega = Omega Theme
@@ -84,3 +87,4 @@ projects[] = coder
 projects[] = masquerade
 projects[] = styleguide
 projects[] = link
+projects[] = coffee
