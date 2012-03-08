@@ -1,4 +1,3 @@
-
 ; $Id$ created 2011-03-27 update 2011-11-10
 ;
 ; Ben's Drush Makefile to download the following modules and themes:
@@ -33,6 +32,7 @@
 ; Style Guide = styleguide
 ; Link = link
 ; Coffee (admin like alfred using alt+d) = coffee
+; Backup and Migrate Files = backup_migrate_files
 
 
 ; Themes:
@@ -88,3 +88,4 @@ projects[] = masquerade
 projects[] = styleguide
 projects[] = link
 projects[] = coffee
+projects[] = backup_migrate_files
