@@ -33,6 +33,7 @@
 ; Link = link
 ; Coffee (admin like alfred using alt+d) = coffee
 ; Backup and Migrate Files = backup_migrate_files
+; Reroute Email = reroute_email
 
 
 ; Themes:
@@ -89,3 +90,4 @@ projects[] = styleguide
 projects[] = link
 projects[] = coffee
 projects[] = backup_migrate_files
+projects[] = reroute_email
